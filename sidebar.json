@@ -1,0 +1,73 @@
+[
+  {
+    "category": "Getting Started",
+    "slug": "getting-started",
+    "items": [
+      {
+        "title": "Dashboard & Application Navigation",
+        "slug": "getting-started",
+        "file": "01-getting-started.md"
+      }
+    ]
+  },
+  {
+    "category": "User Management",
+    "slug": "user-management",
+    "items": [
+      {
+        "title": "Customers vs System Users & Permissions",
+        "slug": "user-management",
+        "file": "02-user-management.md"
+      }
+    ]
+  },
+  {
+    "category": "Vehicle Management",
+    "slug": "vehicle-management",
+    "items": [
+      {
+        "title": "Vehicles, GPS Devices & Expiration Dates",
+        "slug": "vehicle-management",
+        "file": "03-vehicle-management.md"
+      }
+    ]
+  },
+  {
+    "category": "Billing & Subscriptions",
+    "slug": "billing-and-payments",
+    "items": [
+      {
+        "title": "Monthly Invoices & SSLCommerz Payments",
+        "slug": "billing-and-payments",
+        "file": "04-billing-and-payments.md"
+      },
+      {
+        "title": "Subscription Packages & Plans",
+        "slug": "subscription-packages",
+        "file": "07-subscription-packages.md"
+      }
+    ]
+  },
+  {
+    "category": "Support Tickets",
+    "slug": "support-ticketing",
+    "items": [
+      {
+        "title": "Customer Support Tickets & Questionnaires",
+        "slug": "support-ticketing",
+        "file": "05-support-ticketing.md"
+      }
+    ]
+  },
+  {
+    "category": "System & Settings",
+    "slug": "system-settings",
+    "items": [
+      {
+        "title": "GPSWOX Sync, DB Backups & SMS Templates",
+        "slug": "system-settings",
+        "file": "06-system-settings.md"
+      }
+    ]
+  }
+]
